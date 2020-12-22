@@ -6,4 +6,9 @@
 - POST /rent		             (Locar filme)
 - POST /rent/return	         (Devolver filme)
 - POST /auth/logout	         (Logout da aplicação)
-
+## Formato .ENV
+DB_NAME=
+DB_USER=
+DB_PASS=
+DB_HOST=
+SECRET=
